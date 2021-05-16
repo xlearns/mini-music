@@ -1,0 +1,50 @@
+<scroll-view class="content-info" scroll-y>
+  <swiper class="content-info-slide" indicator-color="rgba(255,255,255,.5)" indicator-active-color="#fff" indicator-dots circularautoplay>
+      <swiper-item>
+        <image src="../images/6048745e3f029c308af58bbbe48a5fa869776f36.jpg" />
+      </swiper-item>
+       <swiper-item>
+        <image src="http://i0.hdslb.com/bfs/archive/6048745e3f029c308af58bbbe48a5fa869776f36.jpg" />
+      </swiper-item>
+       <swiper-item>
+        <image src="http://i0.hdslb.com/bfs/archive/6048745e3f029c308af58bbbe48a5fa869776f36.jpg" />
+      </swiper-item>
+  </swiper>
+    <view class="content-info-portal">
+    <view>
+      <image src="/pages/images/1.jpg" />
+      <text>私人FM</text>
+    </view>
+    <view>
+      <image src="../images/1.jpg" />
+      <text>每日歌曲推荐</text>
+    </view>
+      <view>
+        <image src="/pages/images/1.jpg" />
+        <text>云音乐新歌榜</text>
+        </view>
+      </view>
+    <view class="content-info-list">
+      <view class="list-title">推荐歌曲</view>
+      <view class="list-inner">
+       <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+          <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+          <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+          <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+          <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+          <view class="list-item">
+           <image src="../images/1.jpg" /> <view>战斗吧歌姬</view>
+        </view>
+      </view>
+    </view>
+</scroll-view>
